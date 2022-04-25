@@ -1,0 +1,31 @@
+.left-menu {
+    list-style: none;
+}
+
+.left-menu a {
+    color: #222;
+    font-family: sans-serif;
+}
+
+.left-menu li {
+    padding: 15px 20px;
+    border-left: 3px solid white;
+}
+
+.code-section {
+    background-color:#1d1c1c;
+    color: white;
+    padding-left: 15px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+
+.left-menu li:hover {
+   border-left: 3px solid ;
+   border-color: #1d53a1e3;
+}
+
+.left-menu a:hover {
+    text-decoration: none;
+}
